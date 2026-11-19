@@ -1,1 +1,42 @@
-{ "boards": {} }
+{
+  "boards": {
+    "renova": {
+      "version": "0.12.1",
+      "url": "https://updates.classimotive.com/gauge/renova-0.12.1.bin",
+      "size": 1384432,
+      "sha256": "81f8c02ecd99be7d472fefcdb3d65367127f234de75e94320c3c3c42cd726700",
+      "notes": {
+        "de": [
+          "Ein neues Gauge lässt sich während der Ersteinrichtung direkt mit der App koppeln.",
+          "Gauge entkoppeln in der App entfernt nur noch dieses Telefon.",
+          "Antworten an die App gehen bei voller Bluetooth-Verbindung nicht mehr verloren."
+        ],
+        "en": [
+          "A new gauge can be paired with the app right during its first setup.",
+          "Unpairing in the app now removes only this phone.",
+          "Replies to the app are no longer lost while the Bluetooth link is busy."
+        ]
+      },
+      "sig": "c985f7e49e712f4d4967da05367617694e0e75fc3ee4aa0beb9b2520048aa3b857c19888a596883b23994aa1d1ed0ecbb614aa378b93ab0033aadd21507119bc"
+    },
+    "waveshare": {
+      "version": "0.12.1",
+      "url": "https://updates.classimotive.com/gauge/waveshare-0.12.1.bin",
+      "size": 1363616,
+      "sha256": "9a2b4fcbf39ac91f597cd525663c8df1828ec30939acb3fc517a6e8b6622e27f",
+      "notes": {
+        "de": [
+          "Ein neues Gauge lässt sich während der Ersteinrichtung direkt mit der App koppeln.",
+          "Gauge entkoppeln in der App entfernt nur noch dieses Telefon.",
+          "Antworten an die App gehen bei voller Bluetooth-Verbindung nicht mehr verloren."
+        ],
+        "en": [
+          "A new gauge can be paired with the app right during its first setup.",
+          "Unpairing in the app now removes only this phone.",
+          "Replies to the app are no longer lost while the Bluetooth link is busy."
+        ]
+      },
+      "sig": "374aabc233545008cb84219375f68a66c2683673be600b30d5211ea7fbb9febc775831d76772d877f44f7d034273d5e7254bbe82a87d160be155d67ad5e8d19d"
+    }
+  }
+}
