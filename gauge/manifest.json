@@ -1,42 +1,26 @@
 {
   "boards": {
     "renova": {
-      "version": "0.12.1",
-      "url": "https://updates.classimotive.com/gauge/renova-0.12.1.bin",
-      "size": 1384432,
-      "sha256": "81f8c02ecd99be7d472fefcdb3d65367127f234de75e94320c3c3c42cd726700",
+      "version": "0.13.0",
+      "url": "https://updates.classimotive.com/gauge/renova-0.13.0.bin",
+      "size": 1382176,
+      "sha256": "84993d0319fac49eb0f8261f374577c9776b728d0408ff1d05be78d0c53e6ab9",
       "notes": {
-        "de": [
-          "Ein neues Gauge lässt sich während der Ersteinrichtung direkt mit der App koppeln.",
-          "Gauge entkoppeln in der App entfernt nur noch dieses Telefon.",
-          "Antworten an die App gehen bei voller Bluetooth-Verbindung nicht mehr verloren."
-        ],
-        "en": [
-          "A new gauge can be paired with the app right during its first setup.",
-          "Unpairing in the app now removes only this phone.",
-          "Replies to the app are no longer lost while the Bluetooth link is busy."
-        ]
+        "de": [],
+        "en": []
       },
-      "sig": "c985f7e49e712f4d4967da05367617694e0e75fc3ee4aa0beb9b2520048aa3b857c19888a596883b23994aa1d1ed0ecbb614aa378b93ab0033aadd21507119bc"
+      "sig": "b1663add565272d3c1a18756bc8a9f246874928d4548e65a0e800ca2e9518b13be000d971a3b8e0501856ee02170a6a89a82ad53f68fa9f43b60d148491cde84"
     },
     "waveshare": {
-      "version": "0.12.1",
-      "url": "https://updates.classimotive.com/gauge/waveshare-0.12.1.bin",
-      "size": 1363616,
-      "sha256": "9a2b4fcbf39ac91f597cd525663c8df1828ec30939acb3fc517a6e8b6622e27f",
+      "version": "0.13.0",
+      "url": "https://updates.classimotive.com/gauge/waveshare-0.13.0.bin",
+      "size": 1361312,
+      "sha256": "a894b2139e28d3b763089c978d503aedf3b4b81a6150cc4a635ba6db7acd3bb7",
       "notes": {
-        "de": [
-          "Ein neues Gauge lässt sich während der Ersteinrichtung direkt mit der App koppeln.",
-          "Gauge entkoppeln in der App entfernt nur noch dieses Telefon.",
-          "Antworten an die App gehen bei voller Bluetooth-Verbindung nicht mehr verloren."
-        ],
-        "en": [
-          "A new gauge can be paired with the app right during its first setup.",
-          "Unpairing in the app now removes only this phone.",
-          "Replies to the app are no longer lost while the Bluetooth link is busy."
-        ]
+        "de": [],
+        "en": []
       },
-      "sig": "374aabc233545008cb84219375f68a66c2683673be600b30d5211ea7fbb9febc775831d76772d877f44f7d034273d5e7254bbe82a87d160be155d67ad5e8d19d"
+      "sig": "49e783db6ab7a908f90b0f9c36b9d89a4b8d0290c6952a579f0b4a14da82160b573bd5b68f500f08938a1d6634b0fb0c48dd958b3b768856d5d438b889dd52b1"
     }
   }
 }
