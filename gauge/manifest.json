@@ -1,26 +1,26 @@
 {
   "boards": {
     "renova": {
-      "version": "0.13.0",
-      "url": "https://updates.classimotive.com/gauge/renova-0.13.0.bin",
-      "size": 1382176,
-      "sha256": "84993d0319fac49eb0f8261f374577c9776b728d0408ff1d05be78d0c53e6ab9",
+      "version": "0.13.1",
+      "url": "https://updates.classimotive.com/gauge/renova-0.13.1.bin",
+      "size": 1387632,
+      "sha256": "b5865f659100724332d02357d1f665457378cf5f23d179304c39d3fb126198c6",
       "notes": {
         "de": [],
         "en": []
       },
-      "sig": "b1663add565272d3c1a18756bc8a9f246874928d4548e65a0e800ca2e9518b13be000d971a3b8e0501856ee02170a6a89a82ad53f68fa9f43b60d148491cde84"
+      "sig": "07f3ee25fb6ec67a4e598924a973d5cf42ec082247e0f1146ce30fc8161e2fcd430fbd04051aa27c112df9ec686e06c76bfaacbc0be92aa04da554ad4ff5663a"
     },
     "waveshare": {
-      "version": "0.13.0",
-      "url": "https://updates.classimotive.com/gauge/waveshare-0.13.0.bin",
-      "size": 1361312,
-      "sha256": "a894b2139e28d3b763089c978d503aedf3b4b81a6150cc4a635ba6db7acd3bb7",
+      "version": "0.13.1",
+      "url": "https://updates.classimotive.com/gauge/waveshare-0.13.1.bin",
+      "size": 1366944,
+      "sha256": "7ced64e045a6c98895692227edbd6f6c42e5a3d0a75ab1b9c3023c602eebc375",
       "notes": {
         "de": [],
         "en": []
       },
-      "sig": "49e783db6ab7a908f90b0f9c36b9d89a4b8d0290c6952a579f0b4a14da82160b573bd5b68f500f08938a1d6634b0fb0c48dd958b3b768856d5d438b889dd52b1"
+      "sig": "c6d0917b99555090253b5b5510d826d431fae8994d9ac7209c9f9caf6200d6bba691dbd14d8986c7b31958ab5e5304377961000ccb4b7806a0ea1c08d06cbf37"
     }
   }
 }
